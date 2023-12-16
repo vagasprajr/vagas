@@ -14,9 +14,9 @@ Espaço para a divulgação de vagas para juniores; iniciantes; estágios via is
 
 - [Twitter](https://twitter.com/vagasprajr) (+29.8K)
 - [Discord](https://discord.gg/5VNGwfV8) (+1.3K)
-- [Telegram] (https://t.co/NaSpupYU4l) (+1.8K)
-- [Facebook] (https://www.facebook.com/vagasprajrfb) 
-- [BlueSky] (https://bsky.app/profile/vagasprajr.bsky.social) e nosso site
+- [Telegram](https://t.co/NaSpupYU4l) (+1.8K)
+- [Facebook](https://www.facebook.com/vagasprajrfb) 
+- [BlueSky](https://bsky.app/profile/vagasprajr.bsky.social) e nosso site
 - [Vagas pra Jr](https://vagasparajr.com.br/)
 
 ## Como cadastrar uma vaga?
