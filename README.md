@@ -1,6 +1,10 @@
 # @vagasprajr
 
-Esse repositório é exclusivo para postar vagas para jr na área de TI
+## O que é @vagasprajr?
+
+Nascemos em janeiro de 2022 e nosso objetivo é ajudar todas as pessoas iniciantes na área de TI (tecnologia da informação) a encontrar uma vaga para decolar na carreira. A idéia original foi ser um bot para divulgar vagas no antigo Twitter (atual X) e aí divulgamos também vagas no Discord; Telegram; Facebook; BlueSky e em nosso site: http://vagasprajr.com.br
+
+Não queremos ser apenas um bot e agora nosso objetivo é criar um ambiente de desenvolvimento e integração entre pessoas iniciantes (juniores; estagiários ou até pessoas que estão migrando de carreira) e empresas e ajudar ambas as partes a encontrar um bom fit para suas vagas e formar esses profissionais cheios de sonhos e com vontade de aprender a se integrar na sua empresa para tornarem-se mais produtivos e entregar resultados além é claro de fornecer a chance dos juniores hoje tornarem-se plenos; seniores e até os líderes técnicos de amanhã com uma base sólida de conhecimento.
 
 <!--suppress HtmlDeprecatedAttribute -->
 
