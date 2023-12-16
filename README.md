@@ -10,7 +10,14 @@ Esse repositório é exclusivo para postar vagas para jr na área de TI
 
 # Vagas
 
-Espaço para a divulgação de vagas para juniores; iniciantes; estágios via issues do Github.
+Espaço para a divulgação de vagas para juniores; iniciantes; estágios via issues do Github. Essas vagas serão postadas automaticamente nos seguintes canais:
+
+- [Twitter](https://twitter.com/vagasprajr) (+29.8K)
+- [Discord](https://discord.gg/5VNGwfV8) (+1.3K)
+- [Telegram] (https://t.co/NaSpupYU4l) (+1.8K)
+- [Facebook] (https://www.facebook.com/vagasprajrfb) 
+- [BlueSky] (https://bsky.app/profile/vagasprajr.bsky.social) e nosso site
+- [Vagas pra Jr](https://vagasparajr.com.br/)
 
 ## Como cadastrar uma vaga?
 
